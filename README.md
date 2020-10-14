@@ -1,7 +1,7 @@
 # Pig-dice-game
 ![gamePlay](https://github.com/SnakeBiit/Pig-dice-game/blob/main/gamePlay.PNG)
 <br/>
-<h1>Rules:
+<h1>Rules:</h1>
 <br/>
 The game has 2 players, playing in rounds:
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his round score
